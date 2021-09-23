@@ -1,13 +1,18 @@
-# McDonald's Survey Code script
-Automatically fill out the McDonald's survey to get ∞ BOGO quarter pounders.
+# 🍔🍔🍔 McDonald's Survey Code script 🍔🍔🍔
+Automatically fill out the McDonald's survey to get ∞ BOGO Quarter Pounders / Egg McMuffins.
+
+---
 
 ## Setup
 
-Type `. setup.sh`
+1. `git clone https://github.com/michaelvobejda/mcdonalds.git`
+2. `cd mcdonalds`
+3. `. setup.sh`
 
+---
 
-## Run
+## Run the script
 
-Run `python survey.py XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-X` with the Survey Code from your McDonald's receipt.
-
-Selenium will open Chrome, complete the survey, and close. Your Validation Code will be printed to your terminal.
+1. Run `python survey.py XXXXX-XXXXX-XXXXX-XXXXX-XXXXX-X` with the Survey Code from your McDonald's receipt.
+2. Selenium will open Chrome, complete the survey, and close. 
+3. Your Validation Code will be printed to your terminal. Write it on your Mickey D's receipt and get that free burger 🤑
