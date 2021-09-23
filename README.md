@@ -1,4 +1,4 @@
-# mcdonalds
+# McDonald's Survey Code script
 Automatically fill out the McDonald's survey to get ∞ BOGO quarter pounders.
 
 ## Setup
